@@ -8,4 +8,4 @@ Shradha Khapra
 
 # Student
 
-Delta Student
+Sudhir Rapaka
